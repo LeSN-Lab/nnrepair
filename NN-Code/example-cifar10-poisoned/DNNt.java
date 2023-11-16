@@ -1,6 +1,6 @@
 public class DNNt
 {
-
+// private
   private InternalData internal;
 
   // weights0: shape is 3x3x3x32
