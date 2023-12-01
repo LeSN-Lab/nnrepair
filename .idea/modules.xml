@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CombinationCode/CombinationCode.iml" filepath="$PROJECT_DIR$/CombinationCode/CombinationCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NN-Code/NN-Code.iml" filepath="$PROJECT_DIR$/NN-Code/NN-Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nnrepair.iml" filepath="$PROJECT_DIR$/.idea/nnrepair.iml" />
+    </modules>
+  </component>
+</project>
